@@ -3,7 +3,7 @@
 	include 'connect_db.php';
 	include 'equal_bin.php';
 	include 'min_zero_max.php';
-	include 'min_max.php';
+	include 'min_max.php'; //abcdefghij
 
 	$disabled1 = '';
 	$disabled2 = '';
